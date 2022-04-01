@@ -1,11 +1,10 @@
 # **Socioeconomic differences in hearing among middle-aged and older adults: cross-sectional analyses using the Health Survey for England** 
-Shaun Scholes1, Jane Biddulph1, Adrian Davis2, Jennifer S. Mindell1
+Shaun Scholes<sup>1</sup>, Jane Biddulph<sup>1</sup>, Adrian Davis<sup>2</sup>, Jennifer S. Mindell<sup>1</sup>
 
 *BMJ Open* 2018;8:e019615.
 
-1 Department of Epidemiology and Public Health, University College London (UCL), London, UK
-2
-UCL Ear Institute, University College London (UCL), London, UK
+<sup>1</sup> Department of Epidemiology and Public Health, University College London (UCL), London, UK
+<sup>2</sup> UCL Ear Institute, University College London (UCL), London, UK
 
 Abstract
 Background Hearing loss impacts on cognitive, social and physical functioning. Both hearing loss and hearing aid use vary across population subgroups. We examined whether hearing loss, and reported current hearing aid use among persons with hearing loss, were associated with different markers of socioeconomic status (SES) in a nationally representative sample of community-dwelling middle-aged and older adults.
